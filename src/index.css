@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-padding-top: 120px;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    color: #9d9d9d;
+}
